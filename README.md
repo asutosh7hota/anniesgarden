@@ -1,2 +1,4 @@
-# anniesgarden
-website for a startup
+# annies garden
+
+Website for a environmental startup.
+
